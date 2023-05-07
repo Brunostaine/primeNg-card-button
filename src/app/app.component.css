@@ -1,0 +1,34 @@
+
+.titulo-card {
+  color: #FFF;
+  padding: 16px;
+}
+
+.teste {
+  height: 500px;
+}
+
+.img-card {
+  width: 100%;
+}
+
+.container-img-canto {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-socio {
+  font-size: .6rem !important;
+}
+
+.img-canto {
+  width: 100px;
+  margin: 0;
+}
+
+.black {
+  background-color: black;
+}
+
+
